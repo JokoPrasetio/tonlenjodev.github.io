@@ -8,6 +8,6 @@ password : 12345
 
 //login with customer
 
-email : rio@gmail.com
+email : rio@gmail.com <br>
 password : 1234
 
