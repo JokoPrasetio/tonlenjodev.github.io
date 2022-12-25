@@ -1,0 +1,14 @@
+.nav {
+  margin-left: 250px;
+}
+
+.jumbotron {
+  margin-top: -20px;
+  background-image: url(banner/121.png);
+  height: 600px;
+  background-size: cover;
+}
+
+.login {
+  margin-top: 3rem;
+}
