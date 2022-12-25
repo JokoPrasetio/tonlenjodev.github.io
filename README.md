@@ -13,8 +13,3 @@ password : 12345
 email : rio@gmail.com <br>
 password : 1234
 
-menggunakan teknologi <br>
-
--php native <br>
--javascript <br>
--bootstrap
