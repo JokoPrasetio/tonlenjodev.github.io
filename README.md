@@ -15,4 +15,6 @@ password : 1234
 
 menggunakan teknologi <br>
 
--php native
+-php native <br>
+-javascript <br>
+-bootstrap
